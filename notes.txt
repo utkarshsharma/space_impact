@@ -1,0 +1,12 @@
+for vga interfacing http://www.fpga4fun.com/PongGame.html
+1. GLCD could not be achieved - unexpected pains
+2. try vga till the led matrix is dealt with
+
+3.vga interfacing was achieved
+4.modification for vga ie filling of matrices is in progress
+5.led matrix has to be loaded on pcb somehow
+6. matrix loaded
+7. led space inpact code running absolutely fine
+8. pains in score display
+9. minor glitches in led's a two or three not working
+10, vga thing postponed
